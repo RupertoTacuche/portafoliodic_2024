@@ -1,6 +1,8 @@
 import './App.css'
 import Navbar from './components/Navbar'
 import Header from './components/Header'
+import Work from './components/Work'
+import Philosophy from './components/Philosophy'
 
 function App() {
  
@@ -11,9 +13,9 @@ function App() {
        
         <Navbar/>
         <Header/>
+        <Work />
+        <Philosophy />
       </div>
-      
-    
   )
 }
 
