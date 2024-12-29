@@ -20,7 +20,7 @@ const Philosophy = () => {
         </article>
 
         <article> 
-            <img className="w-full h-[400px] object-cover" src="/images/robotin naranja.jpg" alt="" />
+            <img className="w-full h-[400px] object-cover" src="/images/philosophy.png" alt="" />
         </article>
     </section>
   )
