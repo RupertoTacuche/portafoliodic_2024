@@ -2,9 +2,9 @@
 
 const SkillSet = () => {
   return (
-    <section className="text-white px-2 py-12 max-w-[1200px] mx-auto">
+    <section className="text-white px-2 py-12 max-w-[1000px] mx-auto">
         {/* Subseccion superior */}
-        <section className="md:grid md:grid-cols-[1fr_auto]">
+        <section className="md:grid md:grid-cols-[1fr_auto] md:gap-16">
             <article>
                 <h3 className="font-bold text-3xl">Skillset</h3>
                 <p className=" text-gray-400 mt-3">
@@ -14,7 +14,7 @@ const SkillSet = () => {
                 </p>
             </article>
 
-            <section className="grid gap-12 pt-6 md:grid-cols-2">
+            <section className="grid gap-12 pt-6 md:grid-cols-2  md:gap-x-32">
             
                 <article>
                     <div>
@@ -67,7 +67,7 @@ const SkillSet = () => {
         </section>
 
         {/* Subseccion superior (logos) */}
-        <section className="grid grid-cols-2 mt-12">
+        <section className="grid grid-cols-2 mt-12 sm:grid-cols-4">
             <div className="aspect-square grid place-content-center border-[1px] border-gray-800">
                 <img src="/images/logo1.png" alt="" />
             </div>

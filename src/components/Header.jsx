@@ -7,7 +7,7 @@ const Header = () => {
             <img className="w-40 md:absolute h-auto rounded-lg shadow-lg md:top-1/2 md:-translate-y-1/2 md:w-[130%] md:max-w-none" src="/images/victor3.png" alt="" />
         </div>
         <section className="px-2 py-10 bg-gray-d md:grid md:place-content-center md:px-10">
-            <h2 className="text-xl font-bold md:text-5xl md:relative md:z-20 md:text-yellow-300">I´m Víctor Hugo Murcio Mansilla, a  Mechatronic Engineer and FullStack Web Developer <span className="text-gray-300">based in México, City.</span>
+            <h2 className="text-xl font-bold md:text-5xl md:relative md:z-20 md:text-yellow-300">I´m Víctor Hugo Murcio Mansilla, a  Mechatronic Engineer and FullStack Web Developer <span className="text-red-400">based in México, City.</span>
                 
             </h2>
             <p className="mt-4 md:mt-10 md:relative md:z-20 md:text-yellow-300">
