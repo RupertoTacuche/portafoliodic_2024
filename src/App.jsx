@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Work from './components/Work'
 import Philosophy from './components/Philosophy'
 import SkillSet from './components/SkillSet'
+import Projects from './components/Projects'
 
 function App() {
  
@@ -16,6 +17,7 @@ function App() {
         <Work />
         <Philosophy />
         <SkillSet />
+        <Projects />
       </div>
   )
 }
