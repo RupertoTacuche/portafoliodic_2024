@@ -5,6 +5,10 @@ import Work from './components/Work'
 import Philosophy from './components/Philosophy'
 import SkillSet from './components/SkillSet'
 import Projects from './components/Projects'
+import Behance1 from './components/Behance1'
+import Design from './components/Design'
+import Contact from './components/contact'
+import Footer from './components/Footer'
 
 function App() {
  
@@ -18,6 +22,10 @@ function App() {
         <Philosophy />
         <SkillSet />
         <Projects />
+        <Behance1 />
+        <Design />
+        <Contact />
+        <Footer />
       </div>
   )
 }

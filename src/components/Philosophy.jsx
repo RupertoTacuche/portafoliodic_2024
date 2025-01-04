@@ -16,7 +16,7 @@ const Philosophy = () => {
                         </p>
             </div>
 
-            <a className="border-b-2 border-gray-300 max-w-max pb-1" href="#">Check my linkedIn</a>
+            <a className="border-b-2 border-gray-300 max-w-max pb-1" href="https://www.linkedin.com/in/victor-hugo-murcio-mansilla-0618292a7">Check my linkedIn</a>
         </article>
 
         <article> 
