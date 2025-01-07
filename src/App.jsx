@@ -7,8 +7,10 @@ import SkillSet from './components/SkillSet'
 import Projects from './components/Projects'
 import Behance1 from './components/Behance1'
 import Design from './components/Design'
-import Contact from './components/contact'
+
 import Footer from './components/Footer'
+
+import Contact1 from './components/Contact1'
 
 function App() {
  
@@ -24,7 +26,7 @@ function App() {
         <Projects />
         <Behance1 />
         <Design />
-        <Contact />
+        <Contact1 />
         <Footer />
       </div>
   )
